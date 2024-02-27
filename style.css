@@ -125,7 +125,10 @@ x{
         font-weight: 500;
         line-height: 35px;
         width:80%;
-    }    
+    }   
+    #f1-pic{
+        visibility: hidden;
+    }
 }
 @media only screen and (min-width:850px) {
     .about{
