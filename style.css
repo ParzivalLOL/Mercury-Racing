@@ -1,3 +1,6 @@
+.banner{
+    z-index:10;
+}
 .menu-buttons{
     width:13%;
     height: 50px;
